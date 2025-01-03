@@ -1,20 +1,30 @@
-import { Component, inject } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import {NgbModule, NgbModal} from '@ng-bootstrap/ng-bootstrap';
+import { Component,  OnInit } from '@angular/core';
+
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
-  imports: [RouterOutlet, NgbModule],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
-})
-export class AppComponent {
-  title = 'pwa-test';
+    selector: 'app-root',
   
-  private modalService: NgbModal =inject(NgbModal);
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.scss',
 
-  public open(modal: any): void {
-    this.modalService.open(modal);
+})
+export class AppComponent implements OnInit {
+  title = 'pwa-test';
+  isOnline = false;
+  
+  
+
+  ngOnInit(): void {
+    this.updateOnlineStatus();
+    
+    window.addEventListener('online',  this.updateOnlineStatus.bind(this));
+    window.addEventListener('offline', this.updateOnlineStatus.bind(this));
   }
+
+  updateOnlineStatus() {
+    this.isOnline = window.navigator.onLine;
+    console.info(`isOnline=[${this.isOnline}]`);
+  }
+
+
 }

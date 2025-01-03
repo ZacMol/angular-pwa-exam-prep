@@ -1,4 +1,21 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
+<div class="container-fluid py-3">
+  <h1>Angular Progressive Web Application (PWA)</h1>
+
+  <div class="row my-5">
+    <div class="col text-end">
+      Status:
+    </div>
+    <div class="col">
+      @if(isOnline){
+        <span class="badge bg-success">Online</span> }
+      @if(!isOnline)
+        {<span class="badge bg-danger">Offline</span> }
+     
+      </div>
+  </div>
+</div>
+
+<!-- <nav class="navbar navbar-expand-sm navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
       <h1>Angular Bootstrap</h1>
@@ -82,4 +99,4 @@
   <div class="modal-footer">
     <button type="button" class="btn btn-outline-dark" (click)="modal.close('Save click')">Save</button>
   </div>
-</ng-template>
+</ng-template> -->
