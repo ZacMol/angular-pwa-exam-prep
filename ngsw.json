@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1735926646580,
-  "index": "https://ZacMol.github.io/angular-pwa-exam-prep/index.html",
+  "timestamp": 1735926696202,
+  "index": "https://zacmol.github.io/angular-pwa-exam-prep/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ZacMol.github.io/angular-pwa-exam-prep/favicon.ico",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/index.html",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/main-IZWHNWS7.js",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/manifest.webmanifest",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/polyfills-FFHMD2TL.js",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/scripts-EEEIPNC3.js",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/styles-YSZDR4PV.css"
+        "https://zacmol.github.io/angular-pwa-exam-prep/favicon.ico",
+        "https://zacmol.github.io/angular-pwa-exam-prep/index.html",
+        "https://zacmol.github.io/angular-pwa-exam-prep/main-IZWHNWS7.js",
+        "https://zacmol.github.io/angular-pwa-exam-prep/manifest.webmanifest",
+        "https://zacmol.github.io/angular-pwa-exam-prep/polyfills-FFHMD2TL.js",
+        "https://zacmol.github.io/angular-pwa-exam-prep/scripts-EEEIPNC3.js",
+        "https://zacmol.github.io/angular-pwa-exam-prep/styles-YSZDR4PV.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-128x128.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-144x144.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-152x152.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-192x192.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-384x384.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-512x512.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-72x72.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-96x96.png",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-OCU552PF.woff",
-        "https://ZacMol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-X6UQXWUS.woff2"
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-128x128.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-144x144.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-152x152.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-192x192.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-384x384.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-512x512.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-72x72.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-96x96.png",
+        "https://zacmol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-OCU552PF.woff",
+        "https://zacmol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-X6UQXWUS.woff2"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://ZacMol.github.io/angular-pwa-exam-prep/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/index.html": "43736f01beddecb0f5e6d1b8704087ee1616b713",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/main-IZWHNWS7.js": "db8337c9a4df27fb2e1c31ca430539e5dc870f9f",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/manifest.webmanifest": "c024cf00f95df593d3b1765aa9332e57ea142c40",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-OCU552PF.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-X6UQXWUS.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/scripts-EEEIPNC3.js": "2318ded8c885787a1645385a82c1ca883c359034",
-    "https://ZacMol.github.io/angular-pwa-exam-prep/styles-YSZDR4PV.css": "9fa56763285bca193e6c2fda5039311e06d6a2b3"
+    "https://zacmol.github.io/angular-pwa-exam-prep/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://zacmol.github.io/angular-pwa-exam-prep/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://zacmol.github.io/angular-pwa-exam-prep/index.html": "dc78d937f4afae67b88f434f244038856f976a6e",
+    "https://zacmol.github.io/angular-pwa-exam-prep/main-IZWHNWS7.js": "db8337c9a4df27fb2e1c31ca430539e5dc870f9f",
+    "https://zacmol.github.io/angular-pwa-exam-prep/manifest.webmanifest": "c024cf00f95df593d3b1765aa9332e57ea142c40",
+    "https://zacmol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-OCU552PF.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
+    "https://zacmol.github.io/angular-pwa-exam-prep/media/bootstrap-icons-X6UQXWUS.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
+    "https://zacmol.github.io/angular-pwa-exam-prep/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://zacmol.github.io/angular-pwa-exam-prep/scripts-EEEIPNC3.js": "2318ded8c885787a1645385a82c1ca883c359034",
+    "https://zacmol.github.io/angular-pwa-exam-prep/styles-YSZDR4PV.css": "9fa56763285bca193e6c2fda5039311e06d6a2b3"
   },
   "navigationUrls": [
     {
